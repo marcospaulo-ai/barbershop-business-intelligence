@@ -5,7 +5,7 @@
 ---
 
 ## 📸 Dashboard Preview
-![Barbershop Dashboard](dashboard.png)
+https://github.com/marcospaulo-ai/barbershop-business-intelligence/blob/main/Dashboard-ModernBarbers.png
 
 ## 📌 Project Overview
 This dashboard was built to transform raw operational data from a barbershop into actionable business intelligence. The main goal is to support the business owner in making data-driven decisions regarding pricing, marketing hooks, and managing idle hours.
